@@ -4,6 +4,7 @@
 }
 .container {
     text-align: center;
+    height: 700px;
 }
 .temp {
     font-size: 4em;
@@ -25,7 +26,8 @@
 	font-size: 5em;
 }
 body{
-	background-image: url(https://i.pinimg.com/originals/ad/99/0c/ad990c716c1487af6e7d6f95cc38d937.jpg);
+	background-image: url(https://images2.alphacoders.com/103/103542.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
+    color: white;
 }
