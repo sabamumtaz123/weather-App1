@@ -26,8 +26,32 @@
 	font-size: 5em;
 }
 body{
-	background-image: url(https://images2.alphacoders.com/103/103542.jpg);
+	background-image: url(https://www.fcvenoge.ch/wp-content/uploads/background.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
     color: white;
+}
+h2{
+    margin: 10px;
+}
+.fab {
+    float: right;
+    font-size: 60px;
+    color: white;
+    margin-right: 20px;
+    margin-top: 46px;
+    margin-bottom: 40px;
+    transition: transform .2s;
+    border-radius: 90px;
+    padding: 2px 5px 5px 5px;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-family: "Font Awesome 5 Brands";
+}
+a{
+    cursor: pointer;
 }
